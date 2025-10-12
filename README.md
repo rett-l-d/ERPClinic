@@ -2,3 +2,4 @@
 * The projects implements SQLite DB, EF Core, C#, Web API, JS, CSS and HMTL.
 * Link to see a live demo hosted on Azure:
  [ERPClinic](https://endemoapplrettore.azurewebsites.net/).
+[ERPClinic PT-BR](https://demoapplrettore.azurewebsites.net/).
